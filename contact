@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charaset="utf-8" />
+<title> contact page</title>
+</head>
+
+<body>
 <ol>
    <li> <h2>Phone number:</h2> 
      <ul><li> 07478619232</li></ul> 
@@ -6,3 +14,11 @@
 <li><h2>Email address:</h2> 
 <ul><li>munachiojukwu@icloud.com</li> </ul></li>
 </ol>
+</body>
+
+
+
+</html>
+
+
+
